@@ -4,6 +4,8 @@
 1. [dictionary_inspector](https://github.com/don-tnowe/godot-dictionary-inspector) - более удобнове редактирование Dictionary при export(Dictionary)
 ![image](https://github.com/don-tnowe/godot-dictionary-inspector/raw/master/images/gif.gif)
 
+2. [Godot Editor Theme Explorer](https://github.com/YuriSizov/godot-editor-theme-explorer/tree/3.x) - подсказка для получения движковых иконкок/цветов/констант/стилей
+![image](https://github.com/YuriSizov/godot-editor-theme-explorer/raw/3.x/images/preview-1.png)
 
 ## 3D
 1. *[scene_library](https://github.com/4d49/scene-library)
